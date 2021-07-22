@@ -1,4 +1,2 @@
 this is example file
-this is siva sankar
-this is saikumar
-this is b
+
